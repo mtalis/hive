@@ -2,7 +2,7 @@
   "ProcessId": 35760,
   "ProcessPrefix": "! ! Process",
   "ProcessName": "123456789",
-  "ProcessVersion": 19,
+  "ProcessVersion": 20,
   "Files": [
     {
       "Type": 1,
@@ -61,17 +61,7 @@
     {
       "Type": 4,
       "ItemId": 35760,
-      "Path": "Attachments\\bbbb.bprelease.html"
-    },
-    {
-      "Type": 4,
-      "ItemId": 35760,
       "Path": "Attachments\\Drop.html.html"
-    },
-    {
-      "Type": 4,
-      "ItemId": 35763,
-      "Path": "PROS35763 - 123\\Attachments\\Visio import challenges.docx.html"
     },
     {
       "Type": 4,
