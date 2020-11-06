@@ -1,0 +1,40 @@
+{
+  "ProcessId": 36008,
+  "ProcessPrefix": "PRO",
+  "ProcessName": "Very New Proc U1",
+  "ProcessVersion": 3,
+  "Files": [
+    {
+      "Type": 1,
+      "ItemId": 36008,
+      "Path": "Very New Proc U1.xaml"
+    },
+    {
+      "Type": 5,
+      "ItemId": 36008,
+      "Path": "PRO36008 - Twin Tether.htm"
+    },
+    {
+      "Type": 2,
+      "ItemId": 36018,
+      "Path": "PROS36018 - Action 1\\Action 1.xaml",
+      "Sha1": "8B-10-E2-14-04-E7-2D-3D-A3-B3-2D-99-4B-C1-BC-53-87-A2-96-AC"
+    },
+    {
+      "Type": 6,
+      "ItemId": 36018,
+      "Path": "PROS36018 - Action 1\\PROS36018 - Twin Tether.htm"
+    },
+    {
+      "Type": 2,
+      "ItemId": 36020,
+      "Path": "PROS36020 - End\\End.xaml",
+      "Sha1": "1E-F0-3A-A1-A3-01-CB-E9-8C-07-B4-3A-26-30-66-5F-DC-53-8B-D3"
+    },
+    {
+      "Type": 6,
+      "ItemId": 36020,
+      "Path": "PROS36020 - End\\PROS36020 - Twin Tether.htm"
+    }
+  ]
+}
