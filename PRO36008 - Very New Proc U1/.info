@@ -1,13 +1,13 @@
 {
   "ProcessId": 36008,
   "ProcessPrefix": "PRO",
-  "ProcessName": "12345 - Very New Proc U1",
-  "ProcessVersion": 4,
+  "ProcessName": "New Proc U1",
+  "ProcessVersion": 5,
   "Files": [
     {
       "Type": 1,
       "ItemId": 36008,
-      "Path": "12345 - Very New Proc U1.xaml"
+      "Path": "New Proc U1.xaml"
     },
     {
       "Type": 5,
